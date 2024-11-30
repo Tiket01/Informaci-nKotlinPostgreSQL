@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppKotlinPostgreSQL</string>
+    <string name="edad_text">Edad: %s</string>
+
+</resources>
